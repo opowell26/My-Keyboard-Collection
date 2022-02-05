@@ -1,9 +1,0 @@
-(fp_lib_table
-  (lib (name "Keyswitches")(type "KiCad")(uri "D:/Kicad keyboard lib/keyswitches.pretty")(options "")(descr ""))
-  (lib (name "kbd")(type "KiCad")(uri "D:/Kicad keyboard lib/kbd/kicad-footprints/kbd.pretty")(options "")(descr ""))
-  (lib (name "Keebio")(type "KiCad")(uri "D:/Kicad keyboard lib/Keebio-Parts.pretty")(options "")(descr ""))
-  (lib (name "Keyboard parts")(type "KiCad")(uri "D:/Kicad keyboard lib/keyboard_parts.pretty")(options "")(descr ""))
-  (lib (name "Switch_Keyboard_Kailh")(type "KiCad")(uri "D:/Kicad keyboard lib/keyswitch-kicad-library/modules/Switch_Keyboard_Kailh.pretty")(options "")(descr ""))
-  (lib (name "cftkb")(type "KiCad")(uri "D:/Keyboards/discipline/cftkb.pretty")(options "")(descr ""))
-  (lib (name "Graphic")(type "KiCad")(uri "D:/Keyboards/Sonata/Sonata/Graphics.pretty")(options "")(descr ""))
-)
