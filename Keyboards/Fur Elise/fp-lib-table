@@ -1,0 +1,12 @@
+(fp_lib_table
+  (lib (name "acheron_Components")(type "KiCad")(uri "D:/Kicad keyboard lib/AcheronLibrary/footprints/acheron_Components.pretty")(options "")(descr ""))
+  (lib (name "acheron_Connectors")(type "KiCad")(uri "D:/Kicad keyboard lib/AcheronLibrary/footprints/acheron_Connectors.pretty")(options "")(descr ""))
+  (lib (name "acheron_Hardware")(type "KiCad")(uri "D:/Kicad keyboard lib/AcheronLibrary/footprints/acheron_Hardware.pretty")(options "")(descr ""))
+  (lib (name "acheron_MX_SMK")(type "KiCad")(uri "D:/Kicad keyboard lib/AcheronLibrary/footprints/acheron_MX_SMK.pretty")(options "")(descr ""))
+  (lib (name "acheron_MXH")(type "KiCad")(uri "D:/Kicad keyboard lib/AcheronLibrary/footprints/acheron_MXH.pretty")(options "")(descr ""))
+  (lib (name "acheron_MX_SolderMask")(type "KiCad")(uri "D:/Kicad keyboard lib/AcheronLibrary/footprints/acheron_MX_SolderMask.pretty")(options "")(descr ""))
+  (lib (name "acheron_MXH_MetalRings")(type "KiCad")(uri "D:/Kicad keyboard lib/AcheronLibrary/footprints/acheron_MXH_MetalRings.pretty")(options "")(descr ""))
+  (lib (name "acheron_MXA")(type "KiCad")(uri "D:/Kicad keyboard lib/AcheronLibrary/footprints/acheron_MXA.pretty")(options "")(descr ""))
+  (lib (name "keyswitches")(type "KiCad")(uri "D:/Kicad keyboard lib/keyswitches.pretty")(options "")(descr ""))
+  (lib (name "keebio-parts")(type "KiCad")(uri "D:/Kicad keyboard lib/Keebio-Parts.pretty/")(options "")(descr ""))
+)
